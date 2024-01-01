@@ -1,10 +1,15 @@
 {
-    "title":"Meekdai",
-    "displayTitle":"eekdai",
-    "subTitle":"童话是一种生活态度，仅此而已。",
-    "homeUrl":"https://blog.meekdai.com",
-    "avatarUrl":"https://meekdai.com/avatar.svg",
-    "faviconUrl":"https://meekdai.com/favicon.svg",
-    "singlePage":[],
-    "GMEEK_VERSION":"last"
+    "title":"iPlusa",
+    "displayTitle":"Plusa",
+    "subTitle":"天道有常，求其上而得其中，求其中而得其下。",
+    "homeUrl":"https://iplusa.github.io",
+    "avatarUrl":"https://s2.loli.net/2024/01/01/QlefJrTsECbzcKW.png",
+    "faviconUrl":"https://s2.loli.net/2024/01/01/QlefJrTsECbzcKW.png",
+    "singlePage":["link","about"],
+    "email":"noctilucous@163.com",
+    "commentLabelColor":"#006b75",
+    "yearColorList":["#bc4c00", "#0969da", "#1f883d", "#A333D0"],
+    "dayTheme":"light",
+    "nightTheme":"dark_colorblind",
+    "GMEEK_VERSION":"main"
 }
